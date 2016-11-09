@@ -6,6 +6,8 @@ The issue might also appear on Windows Vista and Server 2008.
 
 Now you can exec EnableL2TP.bat to fix it.
 
+![img](l2tp-connection-error-809.png)
+
 ## Reference
 [L2TP - Error 809. Cannot connect L2TP to Sonicwall from Windows 7 and Windows 8 PCs. (SW13197)] 
 https://support.software.dell.com/kb/sw13197
