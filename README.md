@@ -1,7 +1,14 @@
 # EnableL2TP
 Enable L2TP in Windows Systems
 
+When trying to establish a L2TP connection from Windows 7, Windows 8 and Windows 10 machines, error 809 is shown.
+The issue might also appear on Windows Vista and Server 2008.
+
+Now you can exec EnableL2TP.bat to fix it.
+
 ## Reference
+[L2TP - Error 809. Cannot connect L2TP to Sonicwall from Windows 7 and Windows 8 PCs. (SW13197)] 
+https://support.software.dell.com/kb/sw13197
 
 [Pre-shared Key Authentication for L2TP over IPSec Router-to-Router VPN Connections]  
 https://technet.microsoft.com/en-us/library/cc958054.aspx 
@@ -20,3 +27,7 @@ https://support.microsoft.com/en-us/kb/947031
 
 [Secure Socket Tunneling Protocol]  
 https://en.wikipedia.org/wiki/Secure_Socket_Tunneling_Protocol
+
+## License
+
+This program released under [MIT License](LICENSE).
